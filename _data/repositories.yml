@@ -4,3 +4,4 @@ github_users:
 github_repos:
   - microsoft/scene_graph_benchmark
   - iccv2021-mmp/mmp-tracking-helper
+  - InfiMM/InfiMM-Eval-Tool
