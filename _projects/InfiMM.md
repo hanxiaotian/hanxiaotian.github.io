@@ -34,6 +34,8 @@ We achieved top performance on MMMU open-source MLLMs:
 
 For details about our model, please refer to 🤗Huggingface: [Infi-MM/infimm-zephyr](https://huggingface.co/Infi-MM/infimm-zephyr)
 
+Our paper is accepted by [ACL 2024](https://aclanthology.org/2024.findings-acl.27/).
+
 
 ### 3️⃣ Exploring Multimodal Instruction Fine-tuning
 
