@@ -3,6 +3,7 @@ github_users:
 
 github_repos:
   - microsoft/scene_graph_benchmark
+  - shallowdream204/DreamClear
   - iccv2021-mmp/mmp-tracking-helper
   - InfiMM/InfiMM-Eval-Tool
   - InfiMM/Awesome-Multimodal-LLM-for-Math-STEM
