@@ -9,9 +9,15 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Member of Technical Staff
+      institution: OpenAI
+      year: 2025 - Present
+      description:
+        - Multi-modal Research
+        
     - title: Senior Research Scientist
       institution: ByteDance Inc. (TikTok)
-      year: 2023 - Present
+      year: 2023 - 2025
       description:
         - Building Multi-modal Large Language Models
     
